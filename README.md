@@ -1,5 +1,5 @@
 ### Project Description ###
-This is a simple console for making simple calculation operations like (Addition, Subtraction, Multiplication and Division)
+This is a simple console app for making simple calculation operations like (Addition, Subtraction, Multiplication and Division)
 
 ### How it's Work ###
 Here is the complete code of the app written in C#. In the program, there are four functional blocks–Addition, Subtraction, Multiplication, and Division. The user has to select one of the options for addition, subtraction, multiplication, and division respectively.
