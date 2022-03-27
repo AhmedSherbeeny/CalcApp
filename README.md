@@ -79,3 +79,7 @@ Here is the complete code of the app written in C#. In the program, there are fo
             int result = input_1 + input_2;  
             return result;  
             }
+            
+Here is the result
+
+![image](https://user-images.githubusercontent.com/97340280/160282675-fc4d0792-23f3-4aa1-a9b3-90480e28b6f0.png)
